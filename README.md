@@ -1,1 +1,2 @@
 # Odin-recipes
+En este mini proyecto se podrá envidenciar los conocimientos adquiridos durante la primera parte del curso, mostrando las habilidades adquiridas y aplicando las misma de una menera basica. 
