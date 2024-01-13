@@ -1,3 +1,4 @@
+# ESPAÑOL
 # Odin-recipes
 En este mini proyecto se podrá envidenciar los conocimientos adquiridos durante la primera parte del curso, mostrando las habilidades adquiridas y aplicando las misma de una menera basica. 
 
@@ -80,3 +81,86 @@ Las etiquetas de tablas permiten crear tablas en una página web.
 * th>: Contiene una celda de cabecera de una tabla.
 * td>: Contiene una celda de cuerpo de una tabla.
 
+
+# ENGLISH
+# Odin-recipes
+In this mini project, the knowledge acquired during the first part of the course can be demonstrated, showing the skills acquired and applying them in a basic way.
+
+# What tools and tags will be used?
+* Title tags
+* Paragraph tags
+* Tags to
+*Links
+* Ordered and unordered list
+* images
+
+# Project description
+HTML pages that contain information on some recipes and their preparation.
+
+# HTML tags
+
+## Most used and updated HTML tags
+
+HTML tags are the basic building blocks of a web page. They are used to structure the content of a page and format it. HTML tags are written between angle brackets (< and >).
+
+### Structure tags
+Structure tags define the structure of a web page. They are used to divide content into sections, such as the header, body, and footer.
+
+* head>: Contains information about the web page, such as the title, author, and meta tags.
+* body>: Contains the main content of the web page.
+* header>: Contains the header of the web page.
+* footer>: Contains the footer of the web page.
+* main>: Contains the main content of the web page.
+* section>: Contains a content section.
+* article>: Contains a content article.
+
+### Text tags
+Text labels define how text is displayed on a web page. They are used to format text, such as making it bold, italic, or underlined.
+
+* p>: Contains a paragraph of text.
+* h1> to h6>: Define the headers of a web page.
+* strong>: Makes the text more visible.
+*em>: Makes the text more emphasized.
+* b>: Makes the text more visible and thicker.
+* i>: Makes the text more emphasized and slanted.
+* u>: Underline the text.
+
+### Image tags
+Image tags allow you to insert images into a web page.
+
+* img>: Insert an image into a web page.
+* figure>: Contains an image and its legend.
+* figcaption>: Contains the caption of an image.
+
+### Link Tags
+Link tags allow you to create links to other web pages or internal resources.
+
+* a>: Create a link to another web page or an internal resource.
+* link>: Defines a link to an external file, such as a CSS or JavaScript file.
+
+### Form tags
+Form tags allow you to create forms to collect user information.
+
+* form>: Contains a form.
+* input>: Contains an input field.
+* label>: Contains a label for an input field.
+* select>: Contains a selection field.
+* textarea>: Contains a text area.
+
+### List tags
+List tags allow you to create lists of items.
+
+* ul>: Contains an unordered list.
+* ol>: Contains an ordered list.
+* li>: Contains an element of a list.
+
+### Table tags
+Table tags allow you to create tables on a web page.
+
+* table>: Contains a table.
+* thead>: Contains the header of a table.
+* tbody>: Contains the body of a table.
+* tfoot>: Contains the foot of a table.
+* tr>: Contains a row from a table.
+* th>: Contains a header cell of a table.
+* td>: Contains a body cell of a table.
