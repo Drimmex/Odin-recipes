@@ -33,7 +33,7 @@ Las etiquetas de estructura definen la estructura de una página web. Se utiliza
 Las etiquetas de texto definen cómo se muestra el texto en una página web. Se utilizan para dar formato al texto, como para hacerlo en negrita, cursiva o subrayado.
 
 * p>: Contiene un párrafo de texto.
-* h1> a <h6>: Definen los encabezados de una página web.
+* h1> a h6>: Definen los encabezados de una página web.
 * strong>: Hace que el texto sea más visible.
 * em>: Hace que el texto sea más enfatizado.
 * b>: Hace que el texto sea más visible y grueso.
